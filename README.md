@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align ="center">Hi There 👋</h1> 
+<h1 align ="center">👋 Hi There</h1> 
 <img src="frontend_img.webp">
 </div>
 
