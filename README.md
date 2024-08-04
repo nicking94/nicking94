@@ -22,4 +22,7 @@
 - Email: [vallejofernandonicolas@gmail.com](mailto:vallejofernandonicolas@gmail.com)
 - LinkedIn: [nicolas-v](https://www.linkedin.com/in/nicolas-v/)
 
+📫 **GitHub Analytics**
+![nicking94](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 
