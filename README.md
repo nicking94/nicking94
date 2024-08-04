@@ -25,7 +25,7 @@
 <div align="center">
 <h1>GitHub Analytics</h1> 
 
-![nicking94](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![nicking94](https://github-readme-stats.vercel.app/api?username=nicking94&show_icons=true&theme=dark)
 </div>
 
 
