@@ -10,9 +10,9 @@
 
 🚀 **Technologies:**
 - HTML5, CSS3, JavaScript (ES6+)
-- React, Tailwind CSS
+- NextJs, React, Tailwind CSS, NextUI,Material UI
 - Postman, Bootstrap, Jquery
-- Git, GitHub
+- Git, GitHub, Gitlab
 
 🛠️ **Featured Projects:**
 - [St. Helen Institute](https://github.com/nicking94/St-Helen-Institute-web)
